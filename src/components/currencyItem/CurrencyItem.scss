@@ -23,13 +23,14 @@
   }
   &__seq-number {
     width: 5ch;
-    padding-right: 1.2em;
+    margin-right: 1.2em;
     font-weight: bold;
     text-align: right;
   }
   &__img {
-    padding-right: 1.2em;
+    margin-right: 1.2em;
     height: 2em;
+	width: 2em;
   }
   &__name {
     width: 20ch;
