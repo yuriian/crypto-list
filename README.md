@@ -2,7 +2,7 @@
 
 React + Redux project
 
-See the built project [here](https://netlify.com).
+See the built project [here](https://ctypto-list.netlify.com).
 
 ### To run the project:
 
