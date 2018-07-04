@@ -1,0 +1,15 @@
+@import './../assets/common-styles/variables';
+.loading {
+  text-align: center;
+}
+
+.header {
+  background-color: $headerBgColor;
+  padding: 30px 20px;
+  color: white;
+  &__title {
+    margin: 0;
+    text-align: center;
+    font-size: 2rem;
+  }
+}
