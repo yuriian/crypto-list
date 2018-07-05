@@ -6,20 +6,11 @@
   height: 2.8em;
   cursor: default;
   transition: background .2s ease-out;
+  border-radius: 3px;
+  box-shadow: 2px 6px 10px rgba(115, 115, 115, 0.2);
+  margin-bottom: 0.7em;
   &:hover {
-    background: grey;
-  }
-  &:nth-child(odd) {
-    background: $oddItemBgColor;
-    &:hover {
-      background: $oddItemHoverBgColor;
-    }
-  }
-  &:nth-child(even) {
-    background: $evenItemBgColor;
-    &:hover {
-      background: $evenItemHoverBgColor;
-    }
+    background: $plumPale;
   }
   &__seq-number {
     width: 5ch;
@@ -30,7 +21,7 @@
   &__img {
     margin-right: 1.2em;
     height: 2em;
-	width: 2em;
+    width: 2em;
   }
   &__name {
     width: 20ch;

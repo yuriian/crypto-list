@@ -7,6 +7,8 @@
   background-color: $headerBgColor;
   padding: 30px 20px;
   color: white;
+  box-shadow: 2px 5px 10px rgba(66, 66, 66, 0.5);
+  margin-bottom: 1.4rem;
   &__title {
     margin: 0;
     text-align: center;
