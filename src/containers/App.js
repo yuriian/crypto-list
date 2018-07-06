@@ -35,7 +35,7 @@ class App extends Component {
       <div className="main">
         <header className="header">
           <h1 className="header__title">
-            Cryptocurrencies List for the AgileNix
+            Cryptocurrencies List
           </h1>
         </header>
         <CurrencyList
